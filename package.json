@@ -1,0 +1,15 @@
+{
+  "name": "actor-quotes",
+  "version": "1.0.0",
+  "description": "Inspirational quotes from hollywoods actors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "json-server db.json"
+  },
+  "keywords": [
+    "quote"
+  ],
+  "author": "checholin87@gmail.com",
+  "license": "MIT"
+}
