@@ -1,0 +1,96 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "description": "Life is very interesting… in the end, some of your greatest pains, become your greatest strengths",
+      "actor": "Drew Barrymore"
+    },
+    {
+      "id": 2,
+      "description": "I think if you live in a black-and-white world, you’re gonna suffer a lot. I used to be like that. But I don’t believe that anymore.",
+      "actor": "Bradley Cooper"
+    },
+    {
+      "id": 3,
+      "description": "I don’t believe in happy endings, but I do believe in happy travels, because ultimately, you die at a very young age, or you live long enough to watch your friends die. It’s a mean thing, life.",
+      "actor": "George Clooney"
+    },
+    {
+      "id": 4,
+      "description": "Be nice to people on the way up, because you may meet them on the way down.",
+      "actor": "Jimmy Durante"
+    },
+    {
+      "id": 5,
+      "description": "It’s never too late – never too late to start over, never too late to be happy.",
+      "actor": "Jane Fonda"
+    },
+    {
+      "id": 6,
+      "description": "You’re only human. You live once and life is wonderful, so eat the damned red velvet cupcake.",
+      "actor": "Emma Stone"
+    },
+    {
+      "id": 7,
+      "description": "Sometimes you can have the smallest role in the smallest production and still have a big impact.",
+      "actor": "Neil Patrick Harris"
+    },
+    {
+      "id": 8,
+      "description": "I don’t say: ‘can’t do that’, ‘won’t do that’. I’ve never thought in that way about work. The genuine truth, and I do think about this a lot, is that I’m one of the least competitive people you’ll ever meet. Except with myself.",
+      "actor": "Daniel Craig"
+    },
+    {
+      "id": 9,
+      "description": "Never worry about bad press: All that matters is if they spell your name right.",
+      "actor": "Kate Hudson"
+    },
+    {
+      "id": 10,
+      "description": "Respect your efforts, respect yourself. Self-respect leads to self-discipline. When you have both firmly under your belt, that’s real power.",
+      "actor": "Clint Eastwood"
+    }
+  ],
+  "actors": [
+    {
+      "id": 1,
+      "name": "Drew Barrymore"
+    },
+    {
+      "id": 2,
+      "name": "Bradley Cooper"
+    },
+    {
+      "id": 3,
+      "name": "George Clooney"
+    },
+    {
+      "id": 4,
+      "name": "Jimmy Durante"
+    },
+    {
+      "id": 5,
+      "name": "Jane Fonda"
+    },
+    {
+      "id": 6,
+      "name": "Emma Stone"
+    },
+    {
+      "id": 7,
+      "name": "Neil Patrick Harris"
+    },
+    {
+      "id": 8,
+      "name": "Daniel Craig"
+    },
+    {
+      "id": 9,
+      "name": "Kate Hudson"
+    },
+    {
+      "id": 10,
+      "name": "Clint Eastwood"
+    }
+  ]
+}
