@@ -34,3 +34,20 @@ npm run copy
 npm run serve
 
 ```
+
+### TAG 04
+
+```
+npm remove babel-preset-es2015
+npm remove babelify
+npm remove browserify
+npm install babel-preset-es2015 --save-dev
+npm install babelify --save-dev
+npm install -g grunt-cli
+npm install grunt --save-dev
+npm install grunt-browserify --save-dev
+npm install grunt-contrib-copy --save-dev
+npm install grunt-run --save-dev
+grunt server
+
+```
