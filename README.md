@@ -51,3 +51,19 @@ npm install grunt-run --save-dev
 grunt server
 
 ```
+
+### TAG 05
+
+```
+npm install -g karma-cli
+npm install karma --save-dev
+npm install karma-jasmine karma-chrome-launcher --save-dev
+npm install karma-bro --save-dev
+npm install karma-jasmine --save-dev
+npm install grunt-karma --save-dev
+npm install karma-chrome-launcher --save-dev
+npm install jasmine --save-dev
+karma init
+grunt karma
+
+```

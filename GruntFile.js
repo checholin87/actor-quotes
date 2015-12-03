@@ -11,6 +11,9 @@ module.exports = function(grunt) {
 				}
 			}
 		},
+		karma:{
+			unit: { configFile:"karma.conf.js"}
+		},
 		copy: {
 			assets: {
 				expand: true,
@@ -28,10 +31,11 @@ module.exports = function(grunt) {
 
 	grunt.loadNpmTasks('grunt-browserify');
 	grunt.loadNpmTasks('grunt-contrib-copy');
+	grunt.loadNpmTasks('grunt-karma');
 	grunt.loadNpmTasks('grunt-run');
 
 	grunt.registerTask('build',['copy:assets', 'browserify']);
-	grunt.registerTask('server',['build', 'run:server']);
+	grunt.registerTask('server',['karma', 'build', 'run:server']);
 	grunt.registerTask('default',['build']);
 
 };
