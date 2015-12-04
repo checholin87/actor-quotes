@@ -1,0 +1,28 @@
+{
+  "name": "actor-quotes",
+  "version": "1.0.0",
+  "authors": [
+    "Sergio Cosme <secosme@personalsoft.com.co>"
+  ],
+  "description": "JavaScript client side code of actor quotes.",
+  "main": "src/client/index.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "actor",
+    "quote"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

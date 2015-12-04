@@ -1,0 +1,6 @@
+{
+	"strict-ssl": false,
+	"registry": "http://bower.herokuapp.com",
+	"proxy":"http://secosme:sp1k3@172.19.3.5:8080/",
+	"https-proxy":""
+}

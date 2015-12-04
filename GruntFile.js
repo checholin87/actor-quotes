@@ -4,7 +4,7 @@ module.exports = function(grunt) {
 		browserify: {
 			dist:{
 				options:{
-					transform:[['babelify', { 'presets':"es2015"}]]
+					transform:[ ['babelify', { 'presets':"es2015"}], 'debowerify']
 				},
 				files: {
 					'./dist/app.js':['./src/client/index.js']

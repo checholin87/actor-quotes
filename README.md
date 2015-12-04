@@ -67,3 +67,16 @@ karma init
 grunt karma
 
 ```
+
+### TAG 06
+
+Replace JQuery with NPM with Bower for frontend dependencies.
+
+```
+npm uninstall jquery --save
+npm install -g bower
+npm bower init
+npm install debowerify --save-dev
+bower install jquery --save
+
+```
